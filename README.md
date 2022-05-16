@@ -1,2 +1,2 @@
 # apache-php-odbc
-PHP version 8.0
+PHP version 8.1
